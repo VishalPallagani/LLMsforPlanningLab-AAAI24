@@ -6,43 +6,27 @@ Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this 
 
 ## Lab Schedule
 
----
+- [ ] **Introduction and Overview [10 mins]**
+  - A brief introduction to the lab objectives and what participants can expect to learn.
 
-### 🕒 Introduction and Overview [10 mins]
-- A brief introduction to the lab objectives and what participants can expect to learn.
+- [ ] **Brief Overview of Symbolic Planners and Plan Validators [10 mins]**
+  - Exploring the basics of symbolic planning in AI and the role of plan validators.
 
----
+- [ ] **Deep-Dive into LLMs [15 mins]**
+  - An in-depth look at Large Language Models, their evolution, and significance in AI.
 
-### 🕒 Brief Overview of Symbolic Planners and Plan Validators [10 mins]
-- Exploring the basics of symbolic planning in AI and the role of plan validators.
+- [ ] **Overview of LLMs in Planning [10 mins]**
+  - Discussing the integration of LLMs in planning processes and their impact.
 
----
+- [ ] **Plansformer [30 mins]**
+  - Overview: Introduction to the Plansformer model.
+  - Hands-on Session: Interactive session with practical exercises.
 
-### 🕒 Deep-Dive into LLMs [15 mins]
-- An in-depth look at Large Language Models, their evolution, and significance in AI.
+- [ ] **Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]**
+  - Exploring the synergy between neural networks and symbolic AI in the SOFAI architecture.
 
----
-
-### 🕒 Overview of LLMs in Planning [10 mins]
-- Discussing the integration of LLMs in planning processes and their impact.
-
----
-
-### 🕒 Plansformer [30 mins]
-- **Overview:** Introduction to the Plansformer model.
-- **Hands-on Session:** Interactive session with practical exercises.
-
----
-
-### 🕒 Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]
-- Exploring the synergy between neural networks and symbolic AI in the SOFAI architecture.
-
----
-
-### 🕒 Summary and Q/A [15 mins]
-- Wrapping up the session with a summary and a Q&A session for attendees to engage with the speakers.
-
----
+- [ ] **Summary and Q/A [15 mins]**
+  - Wrapping up the session with a summary and a Q&A session for attendees to engage with the speakers.
 
 ##  Prerequisites
 Participants are expected to have a basic understanding of:
