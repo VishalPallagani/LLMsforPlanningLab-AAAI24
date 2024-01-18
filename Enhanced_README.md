@@ -1,5 +1,5 @@
 
-#  [Lab Name]: Integrating Symbolic Planners, LLMs, and Neuro-Symbolic Approaches in AI 
+#  [LQ2] **Harnessing Large Language Models for Planning:** A Lab on Strategies for Success and Mitigation of Pitfalls
 
 ##  Introduction
 Welcome to our **interactive lab session** at [Conference Name, Year]! 🎉 This lab is designed to provide participants with an in-depth understanding of the latest advancements in symbolic planners, plan validators, and Large Language Models (LLMs) in AI, focusing on the Plansformer model and neuro-symbolic approaches. Ideal for AI enthusiasts, researchers, and practitioners eager to expand their knowledge.
