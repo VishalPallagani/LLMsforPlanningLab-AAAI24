@@ -2,27 +2,27 @@
 #  [LQ2] Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls
 
 ##  Introduction
-Welcome to our **interactive lab session** at [Conference Name, Year]! 🎉 This lab is designed to provide participants with an in-depth understanding of the latest advancements in symbolic planners, plan validators, and Large Language Models (LLMs) in AI, focusing on the Plansformer model and neuro-symbolic approaches. Ideal for AI enthusiasts, researchers, and practitioners eager to expand their knowledge.
+Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this lab is to provide participants with a comprehensive understanding of the potential and limitations of Large Language Models (LLMs) in the context of planning, through hands-on application of masked, seq2seq, and causal LLMs for planning problems.
 
 ##  Lab Schedule
 
-###  Introduction and Overview [10 mins - Vishal]
+###  Introduction and Overview [10 mins]
 - A brief introduction to the lab objectives and what participants can expect to learn.
 
-###  Brief Overview of Symbolic Planners and Plan Validators [10 mins - Biplav]
+###  Brief Overview of Symbolic Planners and Plan Validators [10 mins]
 - Exploring the basics of symbolic planning in AI and the role of plan validators.
 
-###  Deep-Dive into LLMs [15 mins - Keerthi/Vishal (optional)]
+###  Deep-Dive into LLMs [15 mins]
 - An in-depth look at Large Language Models, their evolution, and significance in AI.
 
-###  Overview of LLMs in Planning [10 mins - Vishal]
+###  Overview of LLMs in Planning [10 mins]
 - Discussing the integration of LLMs in planning processes and their impact.
 
-###  Plansformer [30 mins - Vishal]
+###  Plansformer [30 mins]
 - **Overview:** Introduction to the Plansformer model.
 - **Hands-on Session:** Interactive session with practical exercises.
 
-###  Neuro-Symbolic Approaches - SOFAI Architecture [15 mins - Francesca/Lior]
+###  Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]
 - Exploring the synergy between neural networks and symbolic AI in the SOFAI architecture.
 
 ###  Summary and Q/A [15 mins]
@@ -50,14 +50,14 @@ Please ensure you have the following installed:
 - [Add more FAQs based on anticipated queries]
 
 ##  Contributors
-- Vishal [Contact info or LinkedIn profile]
-- Biplav [Contact info or LinkedIn profile]
-- Keerthi [Contact info or LinkedIn profile]
-- Francesca [Contact info or LinkedIn profile]
-- Lior [Contact info or LinkedIn profile]
+- Vishal Pallagani [https://www.linkedin.com/in/vishalpallagani/]
+- Biplav Srivastava [https://www.linkedin.com/in/biplav-srivastava]
+- Keerthiram Murugesan [https://www.linkedin.com/in/keerthiram]
+- Francesca Rossi [https://www.linkedin.com/in/francesca-rossi-34b8b95]
+- Lior Horesh [https://www.linkedin.com/in/lior-horesh-7365a46]
 
 ##  Contact Information
-For any queries or feedback, feel free to reach out to [Your Email/Contact Information].
+For any queries or feedback, feel free to reach out to vishalp@mailbox.sc.edu.
 
 ##  Contributing to the Lab
 We encourage contributions and feedback. Please read our [contribution guidelines] for more information on how to submit pull requests or issues.
