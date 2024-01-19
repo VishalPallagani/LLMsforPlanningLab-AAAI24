@@ -25,7 +25,7 @@ Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this 
 - [ ] Part 6 - **Neuro-Symbolic Approaches - SOFAI Architecture**
   - Thinking Fast and Slow in AI (SOFAI) for planning.
 
-- [ ] **Summary and Q/A [15 mins]**
+- [ ] **Summary and Q/A**
   - Wrapping up the session with a summary and a Q&A session for attendees to engage with the speakers.
 
 ##  Prerequisites
