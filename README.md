@@ -22,7 +22,7 @@ Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this 
   - Overview: Introduction to the Plansformer model.
   - Hands-on Session with masked, seq2seq, causal LLMs for plan generation.
 
-- [ ] Part 6 - **Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]**
+- [ ] Part 6 - **Neuro-Symbolic Approaches - SOFAI Architecture**
   - Thinking Fast and Slow in AI (SOFAI) for planning.
 
 - [ ] **Summary and Q/A [15 mins]**
