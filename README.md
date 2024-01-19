@@ -6,24 +6,24 @@ Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this 
 
 ## Lab Schedule
 
-- [ ] **Introduction and Overview [10 mins]**
-  - A brief introduction to the lab objectives and what participants can expect to learn.
+- [ ] Part 1 - **Introduction and Overview**
+  - A brief discussion on the relevance of LLMs in planning and the objectives of the lab.
 
-- [ ] **Brief Overview of Symbolic Planners and Plan Validators [10 mins]**
-  - Exploring the basics of symbolic planning in AI and the role of plan validators.
+- [ ] Part 2 - **Brief Overview of Symbolic Planners and Plan Validators**
+  - Exploring the basics of symbolic planning problems, planning solvers, and plan validators.
 
-- [ ] **Deep-Dive into LLMs [15 mins]**
-  - An in-depth look at Large Language Models, their evolution, and significance in AI.
+- [ ] Part 3 - **Deep-Dive into LLMs**
+  - Introduction to various training and architectural paradigms in LLMs.
 
-- [ ] **Overview of LLMs in Planning [10 mins]**
-  - Discussing the integration of LLMs in planning processes and their impact.
+- [ ] Part 4 - **Overview of LLMs in Planning**
+  - Discussing the different applications of using LLMs in planning.
 
-- [ ] **Plansformer [30 mins]**
+- [ ] **Plansformer**
   - Overview: Introduction to the Plansformer model.
-  - Hands-on Session: Interactive session with practical exercises.
+  - Hands-on Session with masked, seq2seq, causal LLMs for plan generation.
 
 - [ ] **Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]**
-  - Exploring the synergy between neural networks and symbolic AI in the SOFAI architecture.
+  - Thinking Fast and Slow in AI (SOFAI) for planning.
 
 - [ ] **Summary and Q/A [15 mins]**
   - Wrapping up the session with a summary and a Q&A session for attendees to engage with the speakers.
