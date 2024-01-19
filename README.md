@@ -18,11 +18,11 @@ Welcome to our **interactive lab session** at AAAI, 2024! 🎉 The goal of this 
 - [ ] Part 4 - **Overview of LLMs in Planning**
   - Discussing the different applications of using LLMs in planning.
 
-- [ ] **Plansformer**
+- [ ] Part 5 - **Plansformer**
   - Overview: Introduction to the Plansformer model.
   - Hands-on Session with masked, seq2seq, causal LLMs for plan generation.
 
-- [ ] **Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]**
+- [ ] Part 6 - **Neuro-Symbolic Approaches - SOFAI Architecture [15 mins]**
   - Thinking Fast and Slow in AI (SOFAI) for planning.
 
 - [ ] **Summary and Q/A [15 mins]**
