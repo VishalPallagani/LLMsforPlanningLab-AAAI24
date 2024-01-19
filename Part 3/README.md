@@ -1,4 +1,4 @@
-[![Open In Colab](https://github.com/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%203/%5BPart_3%5D_LLM_types.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%203/%5BPart_3%5D_LLM_types.ipynb)
 
 # [Part 3] - Deep-Dive into LLMs                                                                              
 
