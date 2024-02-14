@@ -1,9 +1,9 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%202/Planner_Invoker_with_APIs.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%202/Planner_Invoker_with_APIs_and_Plan_Validator.ipynb)
 
 # [Part 2] - Brief Overview of Symbolic Planners and Plan Validators                                                                             
 
 ## Overview
-This module introduces symbolic planning problems, planners, and validators. Participants will acquire the knowledge necessary to invoke a planner and generate a plan for a PDDL planning problem through API calls to planning.domains.
+This module introduces symbolic planning problems, planners, and validators. Participants will acquire the knowledge necessary to invoke a planner and generate a plan for a PDDL planning problem through API calls to planning.domains and Unified Planning. We also show a working example of validating a plan.
 
 
 ## Prerequisites
@@ -18,4 +18,4 @@ This module introduces symbolic planning problems, planners, and validators. Par
 For questions or issues, please raise an issue in the repository or contact the author.
 
 ## Acknowledgments
-This tutorial was created using resources and tools from [planning.domains](https://planning.domains/), Google Colab, and [CSCE 580](https://github.com/biplav-s/course-ai-tai-f23/tree/main) course offered by Prof. Biplav Srivastava at the University of South Carolina.
+This tutorial was created using resources and tools from [planning.domains](https://planning.domains/), [Unified Planning](https://unified-planning.readthedocs.io/en/latest/) Google Colab, and [CSCE 580](https://github.com/biplav-s/course-ai-tai-f23/tree/main) course offered by Prof. Biplav Srivastava at the University of South Carolina.
