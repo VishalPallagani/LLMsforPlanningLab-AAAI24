@@ -19,14 +19,5 @@ For questions or issues, please raise an issue in the repository or contact the 
 ## Acknowledgments
 This tutorial was created using resources and tools from Hugging Face, Google Colab, and is part of the paper [Plansformer: Generating symbolic plans using transformers](https://arxiv.org/ftp/arxiv/papers/2212/2212.08681.pdf). To cite this work in your research, please use the following BibTeX entry:
 
-```
-@article{pallagani2022plansformer,
-title={Plansformer: Generating symbolic plans using transformers},
-author={Pallagani, Vishal and Muppasani, Bharath and Murugesan, Keerthiram and Rossi, Francesca and Horesh, Lior and Srivastava, Biplav and Fabiano, Francesco and Loreggia, Andrea},
-journal={arXiv preprint arXiv:2212.08681},
-year={2022}
-}
-```
-
 
 
