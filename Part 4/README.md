@@ -1,7 +1,7 @@
-| Notebook | Description | Colab Link |
-|----------|-------------|------------|
-| Plansformer Fine-tuning with CodeT5 | Open the fine-tuning notebook in Google Colab for an interactive experience. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Finetuning_CodeT5.ipynb) |
-| Plansformer Inference | For inference with the Plansformer model, open this notebook in Google Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Inference.ipynb) |
+| Notebook | Description | Colab Link | Video Tutorial |
+|----------|-------------|------------|----------------|
+| Plansformer Fine-tuning with CodeT5 | Open the fine-tuning notebook in Google Colab for an interactive experience. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Finetuning_CodeT5.ipynb) | [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YourVideoLinkHere) |
+| Plansformer Inference | For inference with the Plansformer model, open this notebook in Google Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Inference.ipynb) | [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YourVideoLinkHere) |
 
 
 # [Part 4] - Plansformer                                                                              
