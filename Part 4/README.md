@@ -7,7 +7,7 @@
 # [Part 4] - Plansformer                                                                              
 
 ## Overview
-The notebooks in this module explain how to fine-tune the CodeT5-base model on planning problems, leading to the creation of Plansformer, and further demonstrate how to use Plansformer for inference. As an additional resource and for better understanding, you can also look at the Plansformer demo tutorial available here (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_1rlctCGsrk)
+The notebooks in this module explain how to fine-tune the CodeT5-base model on planning problems, leading to the creation of Plansformer, and further demonstrate how to use Plansformer for inference. As an additional resource and for better understanding, you can also look at the Plansformer demo tutorial available here [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_1rlctCGsrk)
 
 ## Prerequisites
 - Basic understanding of Python programming.
