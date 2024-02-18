@@ -1,13 +1,15 @@
 | Notebook | Description | Colab Link | Video Tutorial |
 |----------|-------------|------------|----------------|
 | Plansformer Fine-tuning with CodeT5 | Open the fine-tuning notebook in Google Colab for an interactive experience. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Finetuning_CodeT5.ipynb) | [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wR8tVWN0rVc) |
-| Plansformer Inference | For inference with the Plansformer model, open this notebook in Google Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Inference.ipynb) | [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YourVideoLinkHere) |
+| Plansformer Inference | For inference with the Plansformer model, open this notebook in Google Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VishalPallagani/LLMsforPlanningLab-AAAI24/blob/main/Part%204/Plansformer_Inference.ipynb) | [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YGSWMSgBG1g) |
 
 
 # [Part 4] - Plansformer                                                                              
 
 ## Overview
-The notebooks in this module explain how to fine-tune the CodeT5-base model on planning problems, leading to the creation of Plansformer, and further demonstrate how to use Plansformer for inference. As an additional resource and for better understanding, you can also look at the Plansformer demo tutorial available here [![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_1rlctCGsrk)
+The notebooks in this module explain how to fine-tune the CodeT5-base model on planning problems, leading to the creation of Plansformer, and further demonstrate how to use Plansformer for inference. As an additional resource and for better understanding, you can also look at the Plansformer demo tutorial available here 
+
+[![Video Tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_1rlctCGsrk)
 
 ## Prerequisites
 - Basic understanding of Python programming.
