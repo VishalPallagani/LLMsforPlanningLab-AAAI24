@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/VishalPallagani/LLMsforPlanningLab-AAAI24)
+![Open PRs](https://img.shields.io/github/issues-pr/VishalPallagani/LLMsforPlanningLab-AAAI24)
 
 #  [LQ2] Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls
 
@@ -37,14 +40,12 @@ Participants are expected to have a basic understanding of:
 Please ensure you have the following installed:
 
 ##  Resources
-- [Link to presentation slides]
-- [Link to additional reading materials]
-- [Link to software or tools used in the lab]
+- [Link to presentation slides](https://docs.google.com/presentation/d/1qF_nouApEg4P3v4tD6AUCrjvQf7ELosRjixJC4cQirc/edit?usp=sharing)
+- [Link to additional reading materials](https://sites.google.com/view/sofai/home?authuser=0)
 
 ##  FAQs
 - **Q1:** Do I need prior experience with LLMs to follow this lab?
   - **A:** Basic knowledge is beneficial, but not mandatory, as we'll cover the fundamentals.
-- [Add more FAQs based on anticipated queries]
 
 ## Contributors
 - [Vishal Pallagani](https://www.linkedin.com/in/vishalpallagani/)
@@ -59,5 +60,3 @@ For any queries or feedback, feel free to reach out to vishalp@mailbox.sc.edu.
 ##  Contributing to the Lab
 We encourage contributions and feedback.
 
-##  License
-Do we want to add any information regarding this?
