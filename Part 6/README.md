@@ -1,25 +1,7 @@
----
+# [Part 6] - Neuro-Symbolic Approaches - SOFAI Architecture
 
-<div align="center">
-  :open_file_folder: This is the spot where something could've been, but isn't. :sparkles:
-  
-  <br>
+While this lab focuses on the interactive exploration of Large Language Models for Planning, we don't provide a direct hands-on experience with the SOFAI for Planning here. 
 
-  **This directory is intentionally left empty because it does not have any associated code.**
-  
-  <br>
+However, for enthusiasts eager to delve deeper into neuro-symbolic methods and the SOFAI architecture, check out our well-documented repository, which offers an in-depth look at the integration of SOFAI within Planning frameworks.
 
-  It stands as a placeholder, marking a space reserved for future possibilities and expansions. 
-  Think of it as a canvas yet to be painted, or a story yet to be written. 
-
-  <br>
-
-  Stay tuned for updates, and in the meantime, explore the rest of the project!
-
-  <br><br>
-
-  :arrow_backward: [Return to the main page](../README.md)
-</div>
-
----
-
+👉 [Explore SOFAI-x-Planning Repository](https://github.com/FrancescoFabiano/SOFAI-x-Planning)
