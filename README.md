@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Last commit](https://img.shields.io/github/last-commit/VishalPallagani/LLMsforPlanningLab-AAAI24)
-![Open PRs](https://img.shields.io/github/issues-pr/VishalPallagani/LLMsforPlanningLab-AAAI24)
+![Last commit](https://img.shields.io/github/last-commit/VishalPallagani/LLMsforPlanningLab-AAAI24?color=orange)
+![Open PRs](https://img.shields.io/github/issues-pr/VishalPallagani/LLMsforPlanningLab-AAAI24?color=blue)
 
 #  [LQ2] Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls
 
