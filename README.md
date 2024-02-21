@@ -60,3 +60,19 @@ For any queries or feedback, feel free to reach out to vishalp@mailbox.sc.edu.
 ##  Contributing to the Lab
 We encourage contributions and feedback.
 
+## Citation for the Lab
+
+If you wish to cite the lab titled "Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls" in your work, please cite it as follows:
+
+Pallagani, Vishal, et al. "Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls." 2024, February. Lab presented at the Association for the Advancement of Artificial Intelligence (AAAI), Canada. [Link](https://sites.google.com/view/llmsxplanning-lab?usp=sharing)
+
+```
+@misc{pallagani2024lab,
+    author = {Pallagani, Vishal and Murugesan, Keerthiram and Srivastava, Biplav and Rossi, Francesca and Horesh, Lior},
+    title = {Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls},
+    year = {2024},
+    month = {February},
+    note = {Lab presented at the Association for the Advancement of Artificial Intelligence (AAAI), Canada},
+    url = {https://sites.google.com/view/llmsxplanning-lab?usp=sharing}
+}
+```
