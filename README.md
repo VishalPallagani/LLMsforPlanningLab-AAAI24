@@ -38,9 +38,6 @@ Participants are expected to have a basic understanding of:
 - AI and Machine Learning concepts.
 - Familiarity with programming languages such as Python.
 
-##  Setup Instructions
-Please ensure you have the following installed:
-
 ##  Resources
 - [Link to presentation slides](https://docs.google.com/presentation/d/1qF_nouApEg4P3v4tD6AUCrjvQf7ELosRjixJC4cQirc/edit?usp=sharing)
 - [Link to additional reading materials](https://sites.google.com/view/sofai/home?authuser=0)
