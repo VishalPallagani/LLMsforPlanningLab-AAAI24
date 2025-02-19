@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Last commit](https://img.shields.io/github/last-commit/VishalPallagani/LLMsforPlanningLab-AAAI24?color=orange)
-![Open PRs](https://img.shields.io/github/issues-pr/VishalPallagani/LLMsforPlanningLab-AAAI24?color=blue)
-[![GitHub stars](https://img.shields.io/github/stars/VishalPallagani/LLMsforPlanningLab-AAAI24.svg?style=social)](https://github.com/VishalPallagani/LLMsforPlanningLab-AAAI24/stargazers)
+![Last commit](https://img.shields.io/github/last-commit/ai4society/sofai_tool?color=orange)
+![Open PRs](https://img.shields.io/github/issues-pr/ai4society/sofai_tool?color=blue)
+[![GitHub stars](https://img.shields.io/github/stars/ai4society/sofai_tool.svg?style=social)](https://github.com/ai4society/sofai_tool/stargazers)
 
 
 #  [LQ2] Harnessing Large Language Models for Planning: A Lab on Strategies for Success and Mitigation of Pitfalls
